@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Blog app](https://github.com/MAYOWA107/Blog-API)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MAYOWA107](https://github.com/MAYOWA107)
-
 - 📫 How to reach me **ogunkoyamayowa77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
