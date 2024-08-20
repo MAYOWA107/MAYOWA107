@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ogunkoya Hafeez Mayowa</h1>
 <h3 align="center">A passionate backend developer from Nigeria</h3>
 
-- 🔭 I’m currently working on [Blog app](https://github.com/MAYOWA107/Blog-API)
+- 🔭 I’m currently working on [weather app]
 
 - 📫 How to reach me **ogunkoyamayowa77@gmail.com**
 
